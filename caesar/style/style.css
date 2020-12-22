@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+
+body {
+    font-family: sans-serif;
+}
+label{display:block;}
+
+#output {
+    font-size: 32px;
+}
+
+#title {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#subtitle {
+    font-size: 20px;
+}
+
+#subtitle2 {
+    font-size: 20px;
+}
+
+#title2 {
+    font-size: 36px;
+}
